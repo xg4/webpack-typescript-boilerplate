@@ -1,0 +1,26 @@
+{
+  "name": "webpack-typescript-boilerplate",
+  "version": "0.0.0",
+  "description": "webpack boilerplate for typescript library",
+  "keywords": [
+    "boilerplate",
+    "eslint",
+    "library",
+    "typescript",
+    "webpack"
+  ],
+  "homepage": "https://github.com/xg4/webpack-typescript-boilerplate#readme",
+  "bugs": {
+    "url": "https://github.com/xg4/webpack-typescript-boilerplate/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xg4/webpack-typescript-boilerplate.git"
+  },
+  "license": "MIT",
+  "author": "xg4 <xingor4@gmail.com>",
+  "main": "dist/index.cjs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
